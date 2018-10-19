@@ -1,0 +1,5 @@
+Watched videos about the brush motors and decided that we can control speed with either a variable resistor or 
+using PWM from the microcontroller. Also discussed the possiblity of powering the motor with a battery to have 
+less cables cluttering things during rotation. Motor would have to be placed parallel with power supply and resistor
+for current controlled speed OR placed parallel with a diode and the combo in series with a transitor 
+to ground for a PWM setup.
