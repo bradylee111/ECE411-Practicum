@@ -1,0 +1,13 @@
+Need to buy:
+
+21 8.2k 0807 Resistors
+6 1k 0807 Resistors
+6 .1uF 0807 Capacitors
+3 47nF 0807 Capacitors
+3 2.2k 0807 Resistors
+3 1x6 serial connector port
+3 2x3 programming header
+3 .33uF 0807 Capacitors
+2 8 Ohm 1/4W speakers
+1 ATMEGA chip
+3 photoresistors
