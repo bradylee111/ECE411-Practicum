@@ -1,2 +1,7 @@
-Code complies but has not been loaded on to the chip and will need to be tested with the actual components attached.
-The pin numbers will have to be modified once the PCB is finalized.
+Code has been tested and is fully functional.
+
+Functionality:
+
+Setup portion designates which pins are going to be used.
+The forever loop portions designates which note to sound depending which photoresistor has been selected by the LED.
+Each photoresistor is connected to a single note from the C major scale.
