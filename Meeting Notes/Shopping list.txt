@@ -11,3 +11,6 @@ Need to buy:
 2 8 Ohm 1/4W speakers -> DONE
 1 ATMEGA 328 chip XXX
 3 photoresistors -> DONE
+
+Completed the list.
+Only missing the backup chip.
