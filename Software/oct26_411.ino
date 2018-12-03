@@ -1,5 +1,5 @@
 /*
- * ECE 411 Project - Digitial music box
+ * ECE 411 Project - Digital music box
  * Alexandra Pinzon, Lee Brady, Nathalie Marquez, Wanyu Zhang
  * 
  * This will take digital input from the photoresistors to then trigger
