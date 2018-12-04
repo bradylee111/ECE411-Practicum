@@ -5,11 +5,10 @@ Need to buy:
 6 .1uF 0807 Capacitors -> DONE
 3 2.2k 0807 Resistors -> 0805 2.2k DONE
 3 1x6 serial connector port -> DONE
-2 2x3 programming header -> DONE
+2 female pin header -> DONE
 2 8 Ohm 1/4W speakers -> DONE
 3 photoresistors -> DONE
 8 50 ohm 1206
-10 5k ohm 0805
 
 Completed the list.
 Only missing the backup chip.
